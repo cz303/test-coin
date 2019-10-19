@@ -1,13 +1,14 @@
 // telegram token
-var token = '724007415:AAGdnWf6XFG32p-ZETzu6F7LufUZ3T26Enk'
+var token = '932872839:AAFT3fCc0eBF_iP55ihRwVb7QI30wUIW_AY'
 // firebase config
 var config = {
-    apiKey: "AIzaSyBAu6N0lMSbUA7YNv70l3N7h-iVMGFHRL8",
-    authDomain: "airdrop-bot-b8427.firebaseapp.com",
-    databaseURL: "https://airdrop-bot-b8427.firebaseio.com",
-    projectId: "airdrop-bot-b8427",
-    storageBucket: "airdrop-bot-b8427.appspot.com",
-    messagingSenderId: "13313106206"
+    apiKey: "AIzaSyDgNUOR_qrTSiknhEsk3fAKMnoi7Kupn8c",
+    authDomain: "airdroptam.firebaseio.com",
+    databaseURL: "airdroptam.firebaseio.com",
+    projectId: "project-180967025157",
+    storageBucket: "airdroptam.appspot.com
+",
+    messagingSenderId: "180967025157"
 };
 
 exports.token = token;
