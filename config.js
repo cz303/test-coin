@@ -6,8 +6,7 @@ var config = {
     authDomain: "airdroptam.firebaseio.com",
     databaseURL: "https://airdroptam.firebaseio.com",
     projectId: "project-180967025157",
-    storageBucket: "airdroptam.appspot.com
-",
+    storageBucket: "gs://airdroptam.appspot.com/",
     messagingSenderId: "180967025157"
 };
 
