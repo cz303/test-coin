@@ -4,7 +4,7 @@ var token = '932872839:AAFT3fCc0eBF_iP55ihRwVb7QI30wUIW_AY'
 var config = {
     apiKey: "AIzaSyDgNUOR_qrTSiknhEsk3fAKMnoi7Kupn8c",
     authDomain: "airdroptam.firebaseio.com",
-    databaseURL: "airdroptam.firebaseio.com",
+    databaseURL: "https://airdroptam.firebaseio.com",
     projectId: "project-180967025157",
     storageBucket: "airdroptam.appspot.com
 ",
