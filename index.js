@@ -13,13 +13,13 @@ var u_email = '';
 var e_wallet = '';
 
 bot.onText(/\/start/, (msg) => {
-    bot.sendPhoto(msg.chat.id,img_url,{caption : "Welcome to Domeno Airdrop! 😍😍 \nPlease join our community and get 100 token.\n \n "}).then(() => {
+    bot.sendPhoto(msg.chat.id,img_url,{caption : "Welcome to Airdroptam! 😍😍 \nPlease join our community and get 100 token.\n \n "}).then(() => {
         var option = {
             "reply_markup": {
-                "keyboard": [["1. Join the Domeno Telegram group", "2. Your Telegram Username"],   ["3. E-mail address" , "4. ETH address (No exchange wallet!)"]]
+                "keyboard": [["1. Join the Airdroptam Telegram group", "2. Your Telegram Username"],   ["3. E-mail address" , "4. ETH address (No exchange wallet!)"]]
                 }
         };
-        bot.sendMessage(msg.chat.id,"Airdrop Rules ⚔️⚔️\n 1. Join the Domeno Telegram group \n 2. Your Telegram Username \n 3. E-mail address \n 4. ETH address (No exchange wallet!) \n",option);
+        bot.sendMessage(msg.chat.id,"Airdrop Rules ⚔️⚔️\n 1. Join the Airdroptam Telegram group \n 2. Your Telegram Username \n 3. E-mail address \n 4. ETH address (No exchange wallet!) \n",option);
     })
 })
 
@@ -31,7 +31,7 @@ bot.on('message', (msg) => {
         var keyboardStr = JSON.stringify({
             inline_keyboard: [
             [
-                {text:'Join the chat',url:'https://t.me/joinchat/FP5H8RIFast0BbjwqiO1_w'}
+                {text:'Join the chat',url:'https://t.me/joinchat/KGZ-vUrIQ5fa30j-4JgSsQ'}
             ]
             ]
         });
